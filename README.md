@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I have a master's degree in computer science and five years of experience as an electromechanical engineer in the consumer products industry.  I'm passionate about 3D graphics 🎮, robotics 🤖, and creating great user experiences 😊.
+I have a master's degree in computer science and five years of experience as an electromechanical engineer in the consumer products industry.  I'm passionate about 3D graphics 🎮, robotics 🤖, and creating great user experiences 😊
 
 - 🔍 I'm currently looking for work
 - 🔨 I’m currently working on a ground-up CAD software to put my CS and ME experiences to good use!
