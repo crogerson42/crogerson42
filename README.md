@@ -3,7 +3,7 @@
 I have a master's degree in computer science and five years of experience as an electromechanical engineer in the consumer products industry.  I'm passionate about 3D graphics 🎮, robotics 🤖, and creating great user experiences 😊
 
 - 💻 I'm currently working as a software engineer in the New England area
-- 🔨 For fun, I’m working on a ground-up CAD software to put my CS and ME experiences to good use!
+- 🔨 For fun, I’m working on a ![ground-up CAD software](https://github.com/crogerson42/basic-cad) to put my CS and ME experiences to good use!
 - 🌱 I’m learning more advanced features of OpenGL
 - 📫 How to reach me: https://www.linkedin.com/in/christianrogerson/
 - 😄 Pronouns: he/him
